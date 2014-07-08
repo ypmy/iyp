@@ -1,25 +1,45 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Yellowpages Malaysia</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<!-- CSS -->
-		<link href="assets/css/main.css" rel="stylesheet" />
-	<style>
+
+
 	
-
-</style>
-
-	</head>
-
-
-<body>
+		<div class="row footer hidden-xs">
 		
-<div id="footer">
-	<div class="container">
-		<div class="row">
-			<div id="term" class="col-md-6">TERM & CONDITIONS </div>
-			<div id="copyright" class="col-md-6">COPYRIGHT</div>
+			<div id="term" class="col-md-8 col-sm-6">
+			<div class="container">
+			
+				<ul>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Term & Conditions</a></li>
+					<li><a href="#">Contact</a></li>	
+				</ul>
+			</div>
+			</div>
+			
+				<div  class="col-md-4 col-sm-6">
+					<div id="copyright" class="container">
+					Copyright &reg; 2014 TM Info-Media Sdn Bhd. All Rights Reserved 
+					</div>
+				</div>
+
+
 		</div>
-	</div>
-</div>
+
+
+
+<!-- Footer 468px and below -->
+		 <div class="row footer visible-xs">
+			<div class="col-xs-12">
+				<div id="term-sm" class="container">
+					<ul>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Term & Conditions</a></li>
+						<li><a href="#">Contact</a></li>	
+					</ul>
+				</div><br>
+
+				<div class="col-xs-12">
+					<div id="copyright-sm" class="container">
+					Copyright &reg; 2014 TM Info-Media Sdn Bhd.<br>All Rights Reserved 
+					</div>
+				</div>
+			</div>
+		 </div>
